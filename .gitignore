@@ -1,2 +1,7 @@
-
- /node_modules
+coverage/
+node_modules
+ormconfig.json
+dist
+.env
+tmp/*
+!tmp/.gitkeep
